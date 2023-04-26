@@ -1,4 +1,4 @@
-# VibeBot
+# Music Bot Template Code
 
 ## A fully functional discord music bot written in python. Features all basic music bot commands and offers YouTube and Spotify support.
 
