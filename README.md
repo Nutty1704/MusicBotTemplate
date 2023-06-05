@@ -18,3 +18,7 @@ This bot was built to serve private servers and is not meant to be used commerci
 ## How to add additional features
 
 You can add more features to this bot as per your need. Refer to [discord.py docs](https://discordpy.readthedocs.io/en/stable/) and write your own features in files inside the cogs/ directory. There are some util files inside utils/ to faciliate actions like playing and comments have been provided to help you understand the files.
+
+## License
+
+This template is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). See the '**LICENSE**' file for more details.
